@@ -1,4 +1,4 @@
-***This is first version of VkMusicSynchronizer
+##This is first version of VkMusicSynchronizer
 
 Steps to install
   - Download or clone repo.
